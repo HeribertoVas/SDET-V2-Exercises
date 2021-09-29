@@ -1,0 +1,16 @@
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\bin\Debug\net5.0\Exercise 1 Development C#.exe
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\bin\Debug\net5.0\Exercise 1 Development C#.deps.json
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\bin\Debug\net5.0\Exercise 1 Development C#.runtimeconfig.json
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\bin\Debug\net5.0\Exercise 1 Development C#.runtimeconfig.dev.json
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\bin\Debug\net5.0\Exercise 1 Development C#.dll
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\bin\Debug\net5.0\ref\Exercise 1 Development C#.dll
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\bin\Debug\net5.0\Exercise 1 Development C#.pdb
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\obj\Debug\net5.0\Exercise 1 Development C#.csproj.AssemblyReference.cache
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\obj\Debug\net5.0\Exercise 1 Development C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\obj\Debug\net5.0\Exercise 1 Development C#.AssemblyInfoInputs.cache
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\obj\Debug\net5.0\Exercise 1 Development C#.AssemblyInfo.cs
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\obj\Debug\net5.0\Exercise 1 Development C#.csproj.CoreCompileInputs.cache
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\obj\Debug\net5.0\Exercise 1 Development C#.dll
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\obj\Debug\net5.0\ref\Exercise 1 Development C#.dll
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\obj\Debug\net5.0\Exercise 1 Development C#.pdb
+C:\Users\heriberto.vasquez\Desktop\Exercise 1 Development C#\obj\Debug\net5.0\Exercise 1 Development C#.genruntimeconfig.cache
