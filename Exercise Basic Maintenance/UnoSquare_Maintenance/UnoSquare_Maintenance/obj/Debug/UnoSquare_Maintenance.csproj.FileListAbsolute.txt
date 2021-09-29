@@ -1,0 +1,12 @@
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\bin\Debug\UnoSquare_Maintenance.exe.config
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\bin\Debug\UnoSquare_Maintenance.exe
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\bin\Debug\UnoSquare_Maintenance.pdb
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\bin\Debug\WebDriver.dll
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\bin\Debug\WebDriver.Support.dll
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\bin\Debug\WebDriver.xml
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\bin\Debug\WebDriver.Support.xml
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\obj\Debug\UnoSquare_Maintenance.csproj.AssemblyReference.cache
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\obj\Debug\UnoSquare_Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\obj\Debug\UnoSquare_Maintenance.csproj.CopyComplete
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\obj\Debug\UnoSquare_Maintenance.exe
+C:\Users\heriberto.vasquez\Documents\Web UI Automation Course\Automation C#\Exercise Basic Maintenance\UnoSquare_Maintenance\UnoSquare_Maintenance\obj\Debug\UnoSquare_Maintenance.pdb
