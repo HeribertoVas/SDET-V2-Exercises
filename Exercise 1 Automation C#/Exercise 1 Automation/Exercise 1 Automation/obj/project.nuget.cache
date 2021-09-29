@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "672wcrk5XHWWaj+rMMrggPPeIwsKZ+se9PvxwjknSuWTpXP4Rw/AvDVBEWPWcrLjks1M7+w5WKKtrjYTfVKU1A==",
+  "dgSpecHash": "A0LpYv7eB1L14NEG18fYG4PhruTL6ZRPWsCqKz6GKQGgA+IxSHnyEK0v8dZTdS1m4lPqyrAYuh/2zc0s/YWYJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\Exercise 1 Automation C#\\Exercise 1 Automation\\Exercise 1 Automation\\Exercise 1 Automation.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
@@ -28,6 +29,7 @@
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\selenium.mozilla.firefox.webdriver\\0.6.0.1\\selenium.mozilla.firefox.webdriver.0.6.0.1.nupkg.sha512",
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
