@@ -1,0 +1,20 @@
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\Exercise 2 Automation.exe
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\Exercise 2 Automation.deps.json
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\Exercise 2 Automation.runtimeconfig.json
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\Exercise 2 Automation.runtimeconfig.dev.json
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\Exercise 2 Automation.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\Exercise 2 Automation.pdb
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\obj\Debug\netcoreapp3.1\Exercise 2 Automation.csproj.AssemblyReference.cache
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\obj\Debug\netcoreapp3.1\Exercise 2 Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\obj\Debug\netcoreapp3.1\Exercise 2 Automation.AssemblyInfoInputs.cache
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\obj\Debug\netcoreapp3.1\Exercise 2 Automation.AssemblyInfo.cs
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\obj\Debug\netcoreapp3.1\Exercise 2 Automation.csproj.CoreCompileInputs.cache
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\obj\Debug\netcoreapp3.1\Exercise 2 Automation.csproj.CopyComplete
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\obj\Debug\netcoreapp3.1\Exercise 2 Automation.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\obj\Debug\netcoreapp3.1\Exercise 2 Automation.pdb
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Exercise 2 Automation C#\Exercise 2 Automation\Exercise 2 Automation\obj\Debug\netcoreapp3.1\Exercise 2 Automation.genruntimeconfig.cache

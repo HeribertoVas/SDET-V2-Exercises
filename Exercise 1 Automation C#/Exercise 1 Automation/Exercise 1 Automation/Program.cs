@@ -20,8 +20,8 @@ namespace Exercise_1_Automation
             switch (driverToSelect)
             {
                 case "Chrome":
-                    driver = new ChromeDriver(@"C:\Users\heriberto.vasquez\Documents\WebDrivers\Chrome"); //local webdriver
-                    //driver = new ChromeDriver();
+                    //driver = new ChromeDriver(@"C:\Users\heriberto.vasquez\Documents\WebDrivers\Chrome"); //local webdriver
+                    driver = new ChromeDriver();
                     break;
                 case "Mozilla":
                     driver = new FirefoxDriver();
