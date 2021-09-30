@@ -1,0 +1,18 @@
+Open a Web Browser and navigate to microsoft.com/es-mx
+On the Top Menu, click the ‘Office’ option.
+When page is loaded, on the Top Menu click ‘Productos’ option to display the Products Menu.
+Locate and write corresponding Xpaths for each of following elements, using ’child’ statement:
+
+Para el hogar (Menu Section): //ul[@class='f-multi-column f-multi-column-5']//li[1]/child::span
+Planes y precios (sub-menu option): //ul[@class='f-multi-column f-multi-column-5']//li[1]//ul[1]/child::li[1]
+Para individuos (sub-menu option)://ul[@class='f-multi-column f-multi-column-5']//li[1]//ul[1]/child::li[3]
+Ver todo hogar (sub-menu option): //ul[@class='f-multi-column f-multi-column-5']//li[1]//ul[1]/child::li[5]
+
+5. Locate and write corresponding Xpaths for each of following elements, using ‘following’ statement
+Recursos (Menu Section): //div[@class='c-uhf-menu js-nav-menu']/child::Button[@id="c-shellmenu_31"]
+Ahorro de costos (sub-menu option): //ul[@class='']//li//following::a[@id="c-shellmenu_32"]
+Comprar Ahora: //li[@id='c-uhf-nav-cta']//following::a[@class="c-uhf-nav-link"]
+
+6. Navigate back to home page microsoft.com/es-mx
+     7. Locate and write corresponding Xpath for the following element, using ‘parent’ statement
+CÓMPRALO AHORA (button from Carousel Banner) (Mas información Surface Pro 8): //span[text()="Más información"]//parent::a[@aria-label="Más información sobre el nuevo Surface Pro 8"] 

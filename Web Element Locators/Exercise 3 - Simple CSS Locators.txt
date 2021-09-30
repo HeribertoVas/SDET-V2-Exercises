@@ -1,0 +1,15 @@
+Open a Web Browser and navigate to apple.com/mx/
+On Top Navigation Menu, click on ‘Music’ option
+After Music page is loaded, locate and write corresponding selectors for each of following icons:
+Apple Music: li.chapternav-item:nth-child(1) > a:nth-child(1) > figure:nth-child(1)
+HomePod: li.chapternav-item:nth-child(6) > a:nth-child(1) > figure:nth-child(1)
+Accesorios para música: li.chapternav-item:nth-child(9) > a:nth-child(1) > figure:nth-child(1)
+
+
+Navigate to ‘Watch’ page:
+
+On Top Navigation Menu, click on ‘Watch’ option
+After Watch page is loaded, scroll down until you locate the elements, and write the corresponding selectors for each of following elements:
+(Apple) WATCH logo: .image-series-7-logo
+Más información (link): a.typography-tile-model-copy > span:nth-child(1)
+Comprar (link): li.compare-item:nth-child(1) > a

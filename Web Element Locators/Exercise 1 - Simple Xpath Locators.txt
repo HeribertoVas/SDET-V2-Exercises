@@ -1,0 +1,25 @@
+1.-Open a Web Browser and navigate to amazon.com.
+2.-Locate and write corresponding Xpaths for each of following elements:
+
+Today's Deals (your amazon): //a[normalize-space()="Today's Deals"]
+Gift Cards: //a[normalize-space()='Gift Cards']
+Registry: //a[normalize-space()='Registry']
+Sell: //a[normalize-space()='Sell']
+Customer Service (Help): //a[@class = 'nav-a  '] [text()[. = 'Customer Service']]
+
+
+-Select ‘Menu’ icon, located on the top-left of the screen
+3.Locate and write corresponding Xpaths for each of following elements:
+Amazon Music: //div[normalize-space()='Amazon Music']
+Alexa Smart Home: //div[normalize-space()='Smart Home']
+Electronics: //div[normalize-space()='Electronics']
+Luggage (Arts & Crafts): //div[normalize-space()='Arts & Crafts']
+
+4. Go to Program and Features -> Amazon Second chance
+
+Recycling your packaging: //div[normalize-space()='Recycle packaging']
+Have items you no longer want (Recycle & trade in electronics): //div[normalize-space()='Recycle & trade in electronics']
+Need something fixed (Repair items): //div[normalize-space()='Repair items']
+Looking for open-box or pre-loved items? (Shop pre-owned items): //div[normalize-space()='Shop pre-owned items']
+Want to know more? (Learn more about..): //div[normalize-space()='Learn more about sustainability at Amazon']
+

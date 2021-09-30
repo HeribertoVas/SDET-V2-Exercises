@@ -1,0 +1,17 @@
+Open a Web Browser and navigate to twitter.com
+After page is loaded, locate and write corresponding selectors for each of following elements, using ‘>’ and ‘+’:
+Small bird icon: .r-k200y > g:nth-child(1) > path
+Happening now text: div.css-901oao:nth-child(2) > span
+Sign Up button: span.css-bfa6kz:nth-child(1) > span
+Log in button: span.css-18t94o4 > span
+
+Locate Login section (For this you click on Sign in > use phone,email.. 
+Locate and write corresponding selectors for each of following elements, using ‘nth-child’ and ‘+’ :
+Username input: div.css-901oao:nth-child(1) >input
+Password input: div.r-135wba7:nth-child(1) > input
+Forgot password? link: span.css-bfa6kz:nth-child(1) > span
+
+
+Navigate to Password Reset page by clicking ‘¿olvidaste tu contraseña?’ link.
+After page is loaded, locate and write corresponding selectors for each of following elements, using ‘>’ or ‘+’ or ‘nth-child’ (one or the other, both, free choice):
+Search: At the moment I click on forgot password it through me an error the selector of this error is:  .r-18jsvk2
