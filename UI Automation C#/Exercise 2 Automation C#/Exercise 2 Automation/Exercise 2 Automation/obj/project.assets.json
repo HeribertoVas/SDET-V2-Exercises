@@ -5374,11 +5374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\Exercise 2 Automation C#\\Exercise 2 Automation\\Exercise 2 Automation\\Exercise 2 Automation.csproj",
+      "projectUniqueName": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\UI Automation C#\\Exercise 2 Automation C#\\Exercise 2 Automation\\Exercise 2 Automation\\Exercise 2 Automation.csproj",
       "projectName": "Exercise 2 Automation",
-      "projectPath": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\Exercise 2 Automation C#\\Exercise 2 Automation\\Exercise 2 Automation\\Exercise 2 Automation.csproj",
+      "projectPath": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\UI Automation C#\\Exercise 2 Automation C#\\Exercise 2 Automation\\Exercise 2 Automation\\Exercise 2 Automation.csproj",
       "packagesPath": "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\Exercise 2 Automation C#\\Exercise 2 Automation\\Exercise 2 Automation\\obj\\",
+      "outputPath": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\UI Automation C#\\Exercise 2 Automation C#\\Exercise 2 Automation\\Exercise 2 Automation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\heriberto.vasquez\\AppData\\Roaming\\NuGet\\NuGet.Config",

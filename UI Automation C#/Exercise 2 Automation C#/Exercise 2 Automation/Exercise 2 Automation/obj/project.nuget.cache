@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5ajqTcFoCpXDGFnGsV0Kjr9uhyLjEzwdQBEEpHQp1Z/ae2SoUYKbL3vMZ/DgrAWt3I8poYkMUuD5rHl4PXj2A==",
+  "dgSpecHash": "2n+DlC0tKClniUjgSoDhlmcWcb+KrYz7O9QSEX4yDl8ZoKgPEVX4q31n8jXbpAkQ44R46u6cOKLjCaNF3FL8sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\Exercise 2 Automation C#\\Exercise 2 Automation\\Exercise 2 Automation\\Exercise 2 Automation.csproj",
+  "projectFilePath": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\UI Automation C#\\Exercise 2 Automation C#\\Exercise 2 Automation\\Exercise 2 Automation\\Exercise 2 Automation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
