@@ -6357,11 +6357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\heriberto.vasquez\\Desktop\\Exercise MsTest V2\\Exercise MsTest\\Exercise MsTest\\Exercise MsTest.csproj",
+      "projectUniqueName": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\UI Automation C#\\Exercise MsTest V2\\Exercise MsTest\\Exercise MsTest\\Exercise MsTest.csproj",
       "projectName": "Exercise MsTest",
-      "projectPath": "C:\\Users\\heriberto.vasquez\\Desktop\\Exercise MsTest V2\\Exercise MsTest\\Exercise MsTest\\Exercise MsTest.csproj",
+      "projectPath": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\UI Automation C#\\Exercise MsTest V2\\Exercise MsTest\\Exercise MsTest\\Exercise MsTest.csproj",
       "packagesPath": "C:\\Users\\heriberto.vasquez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\heriberto.vasquez\\Desktop\\Exercise MsTest V2\\Exercise MsTest\\Exercise MsTest\\obj\\",
+      "outputPath": "C:\\Users\\heriberto.vasquez\\Documents\\GitHub\\SDET-V2-Exercises\\UI Automation C#\\Exercise MsTest V2\\Exercise MsTest\\Exercise MsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\heriberto.vasquez\\AppData\\Roaming\\NuGet\\NuGet.Config",

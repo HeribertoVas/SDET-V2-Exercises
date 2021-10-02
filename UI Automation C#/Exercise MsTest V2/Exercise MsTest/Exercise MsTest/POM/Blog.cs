@@ -9,7 +9,7 @@ using System.Text;
 namespace Exercise_MsTest.POM
 {
     //Implement all neded to use Blog in the test class (Constructor, WebElements, etc)
-    public class Blog: UnoPages
+    public class Blog : UnoPages
     {
         UnoBrowser browser;
         By blogT = By.XPath("//h1[text()= 'DIGITAL TRANSFORMATION BLOG']");
@@ -26,9 +26,9 @@ namespace Exercise_MsTest.POM
         [FindsBy(How = How.XPath, Using = "//a[text()='Quality Assurance']")]
         private IWebElement qualityText { get; set; }
         
-        public Blog(): base()
+        public Blog(UnoBrowser browserR  )
         {
-           
+            browser = browserR;
         }
 
         public Blog validateBlogElement()

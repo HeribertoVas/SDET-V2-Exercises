@@ -7,7 +7,7 @@ namespace Exercise_MsTest
     public class TestCases
     {
         HomePage homepage;
-        Blog blog;
+        //Blog blog;
         [TestInitialize]
         public void BeforeTest()
         {
@@ -18,8 +18,7 @@ namespace Exercise_MsTest
         {
             homepage.GoToServicesAndPracticeAreas();
             homepage.GoToBlog();
-
-            blog = new Blog(); //Add a new Page object name Blog      
+            //blog = new Blog(homepage.browser); //Add a new Page object name Blog      
             //blog.validateBlogElement();//Go to Blog - Vlidate using Asserts, this element is present DIGITAL TRANSFORMATION BLOG
             //blog.validateQAElement(); // Search for Quality Assurance, validate with Asserts that at least one result is displayed
             
