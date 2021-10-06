@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21318" started-at="2021-10-06T20:56:34Z" finished-at="2021-10-06T20:56:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21318" started-at="2021-10-06T20:56:34Z" finished-at="2021-10-06T20:56:55Z">
+      <class name="automation_TestNG.TestClass">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:automation_TestNG.TestClass@11a67ec]" name="beforeClass" is-config="true" duration-ms="4140" started-at="2021-10-06T20:56:34Z" finished-at="2021-10-06T20:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="firstCase()[pri:0, instance:automation_TestNG.TestClass@11a67ec]" name="firstCase" duration-ms="7752" started-at="2021-10-06T20:56:38Z" finished-at="2021-10-06T20:56:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstCase -->
+        <test-method status="PASS" signature="secondCase()[pri:0, instance:automation_TestNG.TestClass@11a67ec]" name="secondCase" duration-ms="9407" started-at="2021-10-06T20:56:46Z" finished-at="2021-10-06T20:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondCase -->
+      </class> <!-- automation_TestNG.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
