@@ -9,12 +9,10 @@ namespace Exercise_MsTest.Base
         protected IWebDriver driver;
         public UnoPages()
         {
-            if(driver == null){
-                browser = new UnoBrowser();
-                driver = browser.CreateBrowser(UnoBrowser.Browser.Chrome);
-                PageFactory.InitElements(driver, this);
-            }
-            
+            browser = new UnoBrowser();
+            driver = browser.CreateBrowser(UnoBrowser.Browser.Chrome);
+            PageFactory.InitElements(driver, this);
         }
+
     }
 }

@@ -15,8 +15,7 @@ namespace Exercise_MsTest.POM
         [FindsBy(How = How.XPath, Using = "//a[.= 'Practice Areas' and @class = 'nav-link']")]
         private IWebElement PracticeAreas { get; set; }
 
-        [FindsBy(How = How.XPath, Using = "//a[.= 'Blog' and @class = 'nav-link']")]
-        private IWebElement Blog { get; set; }
+        
         public HomePage() : base()
         {
 
@@ -28,10 +27,6 @@ namespace Exercise_MsTest.POM
             browser.Click(PracticeAreas);
             return this;
         }
-        public HomePage GoToBlog()
-        {
-            browser.Click(Blog);
-            return this;
-        }
+
     }
 }

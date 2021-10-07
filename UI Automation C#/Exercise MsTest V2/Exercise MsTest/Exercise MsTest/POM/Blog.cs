@@ -11,7 +11,7 @@ namespace Exercise_MsTest.POM
     //Implement all neded to use Blog in the test class (Constructor, WebElements, etc)
     public class Blog : UnoPages
     {
-        UnoBrowser browser;
+        //UnoBrowser browser;
         By blogT = By.XPath("//h1[text()= 'DIGITAL TRANSFORMATION BLOG']");
         [FindsBy(How = How.XPath, Using = "//h1[text()= 'DIGITAL TRANSFORMATION BLOG']")]
         private IWebElement blogTest { get; set; }
@@ -25,10 +25,18 @@ namespace Exercise_MsTest.POM
         By qaElement = By.XPath("//a[text()='Quality Assurance']");
         [FindsBy(How = How.XPath, Using = "//a[text()='Quality Assurance']")]
         private IWebElement qualityText { get; set; }
-        
-        public Blog(UnoBrowser browserR  )
+
+        [FindsBy(How = How.XPath, Using = "//a[.= 'Blog' and @class = 'nav-link']")]
+        private IWebElement BlogIW { get; set; }
+
+        public Blog(): base()
         {
-            browser = browserR;
+        }
+
+        public Blog GoToBlog()
+        {
+            browser.Click(BlogIW);
+            return this;
         }
 
         public Blog validateBlogElement()
@@ -36,7 +44,7 @@ namespace Exercise_MsTest.POM
             //WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(seconds));
             browser.explicitWait(2500);
             Assert.IsTrue(blogTest.Displayed);
-            Console.WriteLine("PASS!");
+            Console.WriteLine("BLOG ELEMENT PASS!");
             return this;
         }
 
@@ -46,7 +54,7 @@ namespace Exercise_MsTest.POM
             browser.Click(searchIcon); //Wait for element
             browser.waitForElement(3, qaElement);
             Assert.IsTrue(qualityText.Displayed);
-            Console.WriteLine("PASS!");
+            Console.WriteLine("QA PASS!");
             return this;
         }
     }
