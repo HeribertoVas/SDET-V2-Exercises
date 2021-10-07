@@ -14,8 +14,8 @@ namespace UnoSquare_Maintenance
         IWebDriver driver;
         public IWebDriver SetUpDriver()
         {
-            //driver = new ChromeDriver(@"C:\Users\heriberto.vasquez\Documents\WebDrivers\Chrome"); //local webdriver
-            driver = new ChromeDriver();
+            driver = new ChromeDriver(@"C:\Users\heriberto.vasquez\Documents\WebDrivers\Chrome"); //local webdriver
+            //driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(15);
             return driver;
@@ -31,26 +31,19 @@ namespace UnoSquare_Maintenance
             element.SendKeys(value);
         }
 
-        //region Google Locators
+        #region UnoSquare Locators
         By googleSearchBar = By.XPath("//input[@class='gLFyf gsfi']");
         By googleSearchIcon = By.XPath("//input[@name='btnK']");
         By unoSquareGoogleResult = By.XPath("//h3[text()='Unosquare: Digital Transformation Services | Agile Staffing ...']");
-        //endregion
 
-        //region UnoSquare Locators
         By unoSquareServicesMenu = By.XPath("//a[text()='Services']");
         By practiceAreas = By.XPath("//a[text()='Practice Areas']");
         By contactUs = By.XPath("//a[@href='/ContactUs' and @class='nav-link link-blue'] ");
         By ourDNA = By.XPath("//a[text()='Our Dna']");
         By articlesEvents = By.XPath("//a[text()='Articles & Events']");
         By digitalTransformation = By.XPath("//h2[text()='Distributed agile teams for your digital transformation']");
-        //endregion 
+        #endregion
 
-        #region UnoSquare Locators
-        By UnoSquareServicesMenu = By.XPath("need maintenance");
-        By PracticeAreas = By.XPath("need maintenance");
-        By ContactUs = By.XPath("need maintenance");
-        #endregion 
         static void Main(string[] args)
         {
 
