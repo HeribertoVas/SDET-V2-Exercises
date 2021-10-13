@@ -1,0 +1,16 @@
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\bin\Debug\net5.0\Exercise 3 Development.exe
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\bin\Debug\net5.0\Exercise 3 Development.deps.json
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\bin\Debug\net5.0\Exercise 3 Development.runtimeconfig.json
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\bin\Debug\net5.0\Exercise 3 Development.runtimeconfig.dev.json
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\bin\Debug\net5.0\Exercise 3 Development.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\bin\Debug\net5.0\ref\Exercise 3 Development.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\bin\Debug\net5.0\Exercise 3 Development.pdb
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\obj\Debug\net5.0\Exercise 3 Development.csproj.AssemblyReference.cache
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\obj\Debug\net5.0\Exercise 3 Development.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\obj\Debug\net5.0\Exercise 3 Development.AssemblyInfoInputs.cache
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\obj\Debug\net5.0\Exercise 3 Development.AssemblyInfo.cs
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\obj\Debug\net5.0\Exercise 3 Development.csproj.CoreCompileInputs.cache
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\obj\Debug\net5.0\Exercise 3 Development.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\obj\Debug\net5.0\ref\Exercise 3 Development.dll
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\obj\Debug\net5.0\Exercise 3 Development.pdb
+C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\Development C#\Exercise 3 Development C#\Exercise 3 Development\Exercise 3 Development\obj\Debug\net5.0\Exercise 3 Development.genruntimeconfig.cache
