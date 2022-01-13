@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Exercise_3_MS_Test
+build_property.ProjectDir = C:\Users\heriberto.vasquez\Documents\GitHub\SDET-V2-Exercises\UI Automation C#\Exercise 3 Automation C#\Exercise 3 MS Test\Exercise 3 MS Test\
